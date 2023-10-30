@@ -1,7 +1,7 @@
 # S206L1_QA
 ## Repositório para a matéria de Qualidade de Software.
 
-# Repositorio auxiliar da disciplina: https://github.com/chrislima-inatel/S206
+### Repositorio auxiliar da disciplina: https://github.com/chrislima-inatel/S206
 
 ### Relatorio 1 (aula 2) - Introducao ao Cypress, configuraçoes iniciais e exemplo
 + Comando para abrir o Cypress (executar no diretorio em que foram instaladas as dependencias) : './node_modules/.bin/cypress open'
