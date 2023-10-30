@@ -7,6 +7,6 @@
 + Comando para abrir o Cypress (executar no diretorio em que foram instaladas as dependencias) : './node_modules/.bin/cypress open'
 
 ### Relatorio 2 (aula 3) - Criaçao de casos de testes para uma pagina de registro/login de exemplo
-+ [Página] ( https://globalsqa.com/angularJs-protractor/registration-login-example/#/login) em questao utilizada.
++ [Página]( https://globalsqa.com/angularJs-protractor/registration-login-example/#/login) em questao utilizada.
 
 # Autor: **João Pedro Maciel de Souza**
