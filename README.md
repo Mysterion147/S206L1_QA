@@ -9,4 +9,17 @@
 ### Relatorio 2 (aula 3) - Criaçao de casos de testes para uma pagina de registro/login de exemplo
 + [Página]( https://globalsqa.com/angularJs-protractor/registration-login-example/#/login) em questao utilizada.
 
+### Relatorio 3 (aula 4) - Finalizacao de testes no GlobalsQA e tutorial de geracao de relatorio
++ ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/' <- Comando para rodar os testes do terminal
++ Quando configurado, o relatorio ja é gerado ao fim da execucao
+
+### Trabalho Pratico 1 - Testes de UI com Cypress
++ Dupla: Joao Pedro Maciel e Felipe Conrado
++ Site escolhido: pagina inicial de busca do Google.
++ Como executar o projeto:
+  + Baixe o repositorio.
+  + Selecione o arquivo "trabalho1" e o mova para o diretorio local onde voce instalou as dependencias do node/cypress.
+  + Execute a suite de testes usando o comando "./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'" no diretorio onde estao as dependencias.
+  + Caso as configuracoes do Mochawwesome estiverem corretas na sua maquina, o relatorio sera gerado automaticamente na pasta de reports. Caso nao, ha um relatorio pronto neste repositorio.
+
 # Autor: **João Pedro Maciel de Souza**
