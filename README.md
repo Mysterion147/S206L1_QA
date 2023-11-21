@@ -23,8 +23,15 @@
   + Caso as configuracoes do Mochawwesome estiverem corretas na sua maquina, o relatorio sera gerado automaticamente na pasta de reports. Caso nao, ha um relatorio pronto neste repositorio.
 
 ### Relatorio 4 (aula 5) - Introducao ao Karate (testes de API)
-+ [Página](https://swapi.dev) em questao utilizada.
++ [Página](https://swapi.dev) em questao utilizada (LEGADO).
 + Resolvendo bugs de execuçao do codigo
   + 'No Tests were executed' (nao esta achando os testes?)
++ Bug resolvido: API indisponivel.
++ ----------------------------------------------------------------
++ Refatoração dos testes usando a API do Pokemon.
++ [Página](https://pokeapi.co) em questao utilizada.
+
+### Relatorio 5 (aula 6) - Aprofundamento Karate, relatorios de testes
++ [Página](https://pokeapi.co) em questao utilizada.
 
 # Autor: **João Pedro Maciel de Souza**
