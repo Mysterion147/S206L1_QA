@@ -27,7 +27,7 @@
 + Resolvendo bugs de execuçao do codigo
   + 'No Tests were executed' (nao esta achando os testes?)
 + Bug resolvido: API indisponivel.
-----------------------------------------------------------------
++
 + Refatoração dos testes usando a API do Pokemon.
 + [Página](https://pokeapi.co) em questao utilizada.
 
