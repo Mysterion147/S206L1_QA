@@ -1,0 +1,13 @@
+Exercício 2 - Para todos os testes desenvolvidos anteriormente, responda e justifique.
+
+1) Eu desenvolvi uma suite de testes. Uma suite de testes é um conjunto de testes que rodam em conjunto para verificar uma funcionalidade ou requisito do SUT.
+
+2) Os testes desenvolvidos sao automatizados, uma vez que eu usei uma ferramenta (Karate) que executa todos os testes automaticamente. "Codigos que testam codigos".
+
+3) Os testes feitos sao testes de API, que por sua vez se localizam no meio da piramide, sendo Testes de Integracao (ou de serviço). Isso ocorre porque uma API é o vinculo entre o fornt e o backend, nao havendo necessidade de simular uma sessao de usuario mas tambem se comunicando com um banco de dados.
+
+4) Os testes desenvolvidos sao todos funcionais, uma vez que testam o comportamento funcional de uma API e nao se preocupam com aspectos nao funcionais.
+
+5) Nao, uma vez que testes E2E sao sempre executados em ambientes reais. A API sendo testada isoladamente automaticamente nao é um cenario real. 
+
+6) Para que os testes sirvam o proposito de testes de regressao é necessario que eles sejam executados toda vez que o SUT sofrer qualquer alteracao.
