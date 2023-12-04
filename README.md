@@ -21,9 +21,9 @@
 + Site escolhido: pagina inicial de busca do Google.
 + Como executar o projeto:
   + Baixe o repositorio.
-  + Selecione o arquivo "trabalho1" e o mova para o diretorio local onde voce instalou as dependencias do node/cypress.
+  + Selecione o arquivo "trabalho1" na pasta e2e do Cypress (em testes) e o mova para o diretorio local onde voce instalou as dependencias do node/cypress.
   + Execute a suite de testes usando o comando "./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'" no diretorio onde estao as dependencias.
-  + Caso as configuracoes do Mochawwesome estiverem corretas na sua maquina, o relatorio sera gerado automaticamente na pasta de reports. Caso nao, ha um relatorio pronto neste repositorio.
+  + Caso as configuracoes do Mochawwesome estiverem corretas na sua maquina, o relatorio sera gerado automaticamente na pasta de reports.
   + (Mesmo das aulas)
 
 
@@ -62,5 +62,15 @@
   + (Mesma coisa das aulas)
 + Em caso de erro no teste de criar usuario, abrir o json 'create.json' e alterar a string de 'email', trocando o numero por outro, por exemplo. Caso rode o teste mais de uma vez sera necessario trocar pois nao ha como criar o mesmo usuario duas vezes
 + Mesma ideia para o teste de 'delete', em que nao ha como deletar o mesmo usuario duas vezes, entao trocar o id no path.
+
+### Prova - Teste de UI com Cypress
++ Feito individualmente
++ Site escolhido: https://computer-database.gatling.io/computers
++ + Como executar o projeto:
+  + Baixe o repositorio.
+  + Selecione o arquivo "prova" na pasta e2e do Cypress (em testes) e o mova para o diretorio local onde voce instalou as dependencias do node/cypress.
+  + Execute a suite de testes usando o comando "./node_modules/.bin/cypress run --spec 'cypress/e2e/prova.cy.js/'" no diretorio onde estao as dependencias.
+  + Caso as configuracoes do Mochawwesome estiverem corretas na sua maquina, o relatorio sera gerado automaticamente na pasta de reports. Ha um exemplo pronto dessa suite aqui no Git.
+  + (Mesmo das aulas)
 
 # Autor: **João Pedro Maciel de Souza**
