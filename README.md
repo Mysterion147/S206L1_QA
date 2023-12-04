@@ -15,6 +15,7 @@
 + ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/' <- Comando para rodar os testes do terminal
 + Quando configurado, o relatorio ja é gerado ao fim da execucao
 
+
 ### Trabalho Pratico 1 - Testes de UI com Cypress
 + Dupla: Joao Pedro Maciel e Felipe Conrado
 + Site escolhido: pagina inicial de busca do Google.
@@ -24,6 +25,7 @@
   + Execute a suite de testes usando o comando "./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'" no diretorio onde estao as dependencias.
   + Caso as configuracoes do Mochawwesome estiverem corretas na sua maquina, o relatorio sera gerado automaticamente na pasta de reports. Caso nao, ha um relatorio pronto neste repositorio.
   + (Mesmo das aulas)
+
 
 ### Relatorio 4 (aula 5) - Introducao ao Karate (testes de API)
 + [Página](https://swapi.dev) em questao utilizada (LEGADO).
@@ -38,7 +40,8 @@
 + [Página](https://pokeapi.co) em questao utilizada.
 
 ### Relatorio 6 (aula 7) - Finalizacao dos testes de API com Karate
-
++ 
+ 
 ### Trabalho Pratico 2 - Testes de API com Karate
 + Feito individualmente
 + API escolhida: https://reqres.in
@@ -47,6 +50,7 @@
   + Baixar os arquivos do repositorio, mais especificamente a pasta aula5_karate/trabalho2
   + Executar os testes atraves do comando "mvn test -Dtest=ReqRunner", ou apenas configure o pom para deixar esse Runner como default e use "mvn test"
   + (Mesma coisa das aulas)
+
  
 ### Prova - Teste de API com Karate
 + Feito individualmente
