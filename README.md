@@ -72,4 +72,5 @@
   + Caso as configuracoes do Mochawwesome estiverem corretas na sua maquina, o relatorio sera gerado automaticamente na pasta de reports. Ha um exemplo pronto dessa suite aqui no Git.
   + (Mesmo das aulas)
 
+# Media final da disciplina: 89
 # Autor: **João Pedro Maciel de Souza**
