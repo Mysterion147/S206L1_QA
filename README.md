@@ -17,7 +17,6 @@
 
 
 ### Trabalho Pratico 1 - Testes de UI com Cypress
-+ Dupla: Joao Pedro Maciel e Felipe Conrado
 + Site escolhido: pagina inicial de busca do Google.
 + Como executar o projeto:
   + Baixe o repositorio.
